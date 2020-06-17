@@ -1,6 +1,10 @@
 Code by Alex Webber
+****
 
-#Japanese Language learning program, compatible with Python 3.
+##Japanese Language learning program, compatible with Python 3##
+
+****
+Files:
 
 - vocab_lists contains the vocabulary lists used.
 
