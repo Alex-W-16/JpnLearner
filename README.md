@@ -6,13 +6,15 @@ Code by Alex Webber
 ****
 Files:
 
-- vocab_lists contains the vocabulary lists used.
+- characters.py is a program that allows the user to learn and practise Hiragana and Katakana
 
-- Run vocab from a command line to begin.
+- vocab_lists.py contains the vocabulary lists used.
+
+- Run vocab.py from a command line to begin.
 
 ****
 
-How to operate a test in the program:
+How to operate a test using vocab.py
 
 The user chooses which vocabulary lists (from the Genki Japanese Language books) to use in the test, and whether the program should display the English or the Japanese version of the list. 
 
